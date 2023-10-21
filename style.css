@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+aside {
+    position: fixed;
+    float: left;
+    width: 20%;
+    height: 100%;
+    margin: 0 2%;
+}
+
+main {
+    margin-left: 25rem;
+    margin-right: 5rem;
+}
+
+nav {
+    margin: 10px 10px;
+}
+nav button {
+    height: 35px;
+    width: 250px;
+    margin: 5px 10px;
+}
+nav a {
+    text-decoration: none;
+    color: black;
+}
+
+
+#definition {
+    margin: 2rem 0;
+}
+
+#front-end {
+    margin: 2rem 0;
+}
+
+#front-end-developer {
+    margin: 2rem 0;
+}
+
+#skills {
+    margin: 2rem 0;
+}
+
+#html-css3 {
+    margin: 1rem 0;
+}
+
+#javascript {
+    margin: 1rem 0;
+}
+
